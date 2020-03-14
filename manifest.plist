@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://staging.aucakeemergency.blog/apps/cakey-driver.ipa</string>
+					<string>https://github.com/uniontosky/Cakey-driver-OTA/blob/master/cakey-driver.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://staging.aucakeemergency.blog/apps/cakey-driver-app-icon-57.png</string>
+					<string>https://github.com/uniontosky/Cakey-driver-OTA/blob/master/cakey-driver-app-icon-57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://staging.aucakeemergency.blog/apps/cakey-driver-app-icon-217.png</string>
+					<string>https://github.com/uniontosky/Cakey-driver-OTA/blob/master/cakey-driver-app-icon-217.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
